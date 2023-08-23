@@ -59,5 +59,3 @@ Enumera los posibles códigos de error que la API puede devolver y qué signific
 ### Contribuciones
 
 Anima a otros desarrolladores a contribuir al proyecto. Se debe explicar cómo pueden enviar solicitudes pull, informar problemas y contribuir al código.
-
-
