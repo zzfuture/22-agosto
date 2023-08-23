@@ -28,8 +28,6 @@ Un `BigInt` se crea agregando `n` al final de un número entero o llamando al co
 
 ### Tipo String
 
-
-
 El tipo `String` de JavaScript se utiliza para representar datos textuales. Es un 
 conjunto de "elementos" de valores enteros sin signo de 16 bits. Cada 
 elemento del `String` ocupa una posición en la cadena. El primer elemento está en el índice `0`, el siguiente en el índice `1`, y así sucesivamente. La longitud de una cadena es el número de elementos que contiene.
@@ -42,3 +40,9 @@ Sin embargo, todavía es posible crear otra cadena basada en una operación en l
 
 - Una subcadena de la original seleccionando letras individuales o usando `String.substr()`.
 - Una concatenación de dos cadenas usando el operador de concatenación (`+`) o `String.concat()`.
+
+### Tipo Symbol
+
+Un símbolo es un valor primitivo **único** e **inmutable** y se puede utilizar como clave de una propiedad de objeto (ve más 
+abajo). En algunos lenguajes de programación, los símbolos se denominan 
+"átomos".
