@@ -28,7 +28,9 @@ Un `BigInt` se crea agregando `n` al final de un número entero o llamando al co
 
 ### Tipo String
 
-El tipo [`String`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String) de JavaScript se utiliza para representar datos textuales. Es un 
+
+
+El tipo `String` de JavaScript se utiliza para representar datos textuales. Es un 
 conjunto de "elementos" de valores enteros sin signo de 16 bits. Cada 
 elemento del `String` ocupa una posición en la cadena. El primer elemento está en el índice `0`, el siguiente en el índice `1`, y así sucesivamente. La longitud de una cadena es el número de elementos que contiene.
 
